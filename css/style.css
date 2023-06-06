@@ -1,0 +1,31 @@
+body {
+   margin: 26px;
+   background-color: #4F709C;
+}
+img{
+   margin: 15px;
+}
+#sides{
+   display: flex;
+   justify-content: center;
+   margin: 10px;
+}
+#left {
+   width: 273px;
+   color: black;
+   margin:30px;
+}
+
+#head{
+   font-size: 24px;
+   width: 525px;
+   height: 260px;
+}
+#resume {
+   font-size: 18px;
+   text-align: justify;
+}
+#right{
+   margin:30px;
+}
+
